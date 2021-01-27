@@ -1,0 +1,21 @@
+{
+  "name": "improt-three-examples",
+  "version": "2.0.1",
+  "description": "Modular import threeJs plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three",
+    "loader",
+    "webpack",
+    "vue",
+    "react"
+  ],
+  "author": "xiongtongzi",
+  "license": "MIT",
+  "__npminstall_done": "Wed Jan 27 2021 16:53:12 GMT+0800 (GMT+08:00)",
+  "_from": "improt-three-examples@2.0.1",
+  "_resolved": "https://registry.npm.taobao.org/improt-three-examples/download/improt-three-examples-2.0.1.tgz"
+}
